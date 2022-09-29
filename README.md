@@ -8,6 +8,7 @@ additional information here).
 ## Solution
 ### Start server
 `git clone https://github.com/hatatori/cors-bye`<br>
+`cd cors-bye`
 `node server.js`<br>
 ### Url
 `http://localhost:8080/?link=<URL>`

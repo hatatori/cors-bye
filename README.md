@@ -5,7 +5,7 @@
 `http://localhost:8080/?link=<URL>`
 ### Parte 2
 ```js
-fetch("http://localhost:8080/?link=http://localhost:8080/?link=https://api.pi.delivery/v1/pi?start=0&numberOfDigits=100")
+fetch("http://localhost:8080/?link=https://api.pi.delivery/v1/pi?start=0&numberOfDigits=100")
 .then(e=>e.json())
 .then(e=>console.log(e))
 ```

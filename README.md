@@ -9,6 +9,7 @@ additional information here).
 ### Start server
 `git clone https://github.com/hatatori/cors-bye`<br>
 `node server.js`<br>
+### Url
 `http://localhost:8080/?link=<URL>`
 #### Code js
 ```js
